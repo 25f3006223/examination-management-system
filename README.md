@@ -1,9 +1,11 @@
 # Examination Management Portal
 
-Flask and SQLite backend foundation for the Examination Management Portal. This
-Milestone 1 setup defines the database schema and seeds one administrator using
-the Flask application factory. The Vue interface and role workflows will be
-added in later milestones.
+The Examination Management Portal helps administrators manage courses and
+examinations, examiners manage assessment slots and evaluations, and students
+book examinations and view results. The project uses Flask, SQLite, Vue, and
+Bootstrap, and is being built milestone by milestone. This repository currently
+contains the Milestone 1 database schema and administrator initializer; later
+milestones will add authentication, role workflows, and the Vue interface.
 
 ## Requirements
 
